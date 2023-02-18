@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Tracy!
 
 ## Facts about myself
-- 👀 I’m interested in becoming a Front End Developer. 
+- 👀 I’m interested in becoming a Junior Full Stack Developer. 
 - 🌱 I’m currently enrolled in a Full Stack Coding Bootcamp. 
 
 ## Technologies
