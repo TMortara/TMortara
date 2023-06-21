@@ -6,7 +6,7 @@ Junior Full Stack Developer
 
 *   🌍  I'm based in Texas
 *   🖥️  See my portfolio at [my new website!](http://tmortara.github.io/Tracy-Mortara-Professional-Portfolio/)
-*   🧠  I'm learning TypeScript, Next.js, Vercel
+*   🧠  I'm currently learning TypeScript, Next.js, Vercel
  
 ### Skills
 
